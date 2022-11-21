@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, programming and enjoy life
 - 🌱 I’m currently learning Symfony and Laravel
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me: Mail - info@jeroendebarse.nl
+- 📫 How to reach me: Mail - jeroen_debarse@hotmail.com
 
 <!---
 JDBuitW/JDBuitW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
